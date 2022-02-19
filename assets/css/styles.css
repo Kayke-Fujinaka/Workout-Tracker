@@ -140,7 +140,7 @@ body {
 
 .meta {
     display: flex;
-    width: 896px;
+    width: 696px;
     height: 160px;
     background: #F2F2F2;
     border-radius: 15px;
@@ -177,7 +177,7 @@ body {
 }
 
 .time {
-    width: 896px;
+    width: 696px;
     height: 120px;
     display: flex;
     background: rgba(243, 234, 255, 0.2);
@@ -223,7 +223,7 @@ body {
 }
 
 .category {
-    width: 896px;
+    width: 696px;
     display: flex;
     justify-content: space-between;
 }
