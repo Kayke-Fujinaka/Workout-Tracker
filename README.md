@@ -1,7 +1,5 @@
 # Workout Tracker
 
-<img src="./img/img.png" width="450px" alt="Workout Tracker Page">
-
 >  The site is an application of a physical monitoring site, which counts time and provides exercises.
 
 Confira a aplicação: https://workout-tracker-k.netlify.app
