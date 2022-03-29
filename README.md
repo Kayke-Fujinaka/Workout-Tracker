@@ -1,6 +1,6 @@
 # Workout Tracker
 
-<img src="./assets/img/gif.gif" width="800px" height="450px" alt="Gif do Teste">
+<img src="./assets/img/gif.gif" width="800px" height="450px" alt="Gif do projeto workout">
 
 >  The site is an application of a physical monitoring site, which counts time and provides exercises.
 
