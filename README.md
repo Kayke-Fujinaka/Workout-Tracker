@@ -5,18 +5,13 @@
 >  The site is an application of a physical monitoring site, which counts time and provides exercises.
 
 Check the Application: https://kayke-fujinaka.github.io/Workout-Tracker/
-## :page_facing_up: Explanation
 
-Um projeto feito com meu colega de cursor.
-
-O projeto é um exemplo de uma página de monitoramente de atividades físicas.
 ## :dart: Features ##
 
-:heavy_check_mark: Estruturação da Página;\
-:heavy_check_mark: Estilização da Página;\
-:x: Responsivo;\
-:heavy_check_mark: Finalizado;
-## :rocket: Technologies ##
+:heavy_check_mark: Structure;\
+:heavy_check_mark: Styled;\
+:heavy_check_mark: Apply JavaScript;\
+:heavy_check_mark: Finish;
 
 The following tools were used in this project:
 
